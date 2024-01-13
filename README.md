@@ -9,5 +9,6 @@
 
 This repository is intended to serve as a medium to support my Swedish learning.
 
-
-
+- [Grammar](./grammar/GRAMMAR.md)
+- [Pronunciation](./pronunciation/PRONUNCIATION.md)
+- [Vocabulary](./vocabulary/VOCABULARY.md)
