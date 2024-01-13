@@ -11,4 +11,3 @@ __________                                           __        __   __
 
 - [problematic words](./problematic_words.md)
 - [pronunciation rules](./pronunciation_rules.md)
-- [Svenska alfabetet](./svenska_alfabetet.md)
