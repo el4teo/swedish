@@ -15,7 +15,7 @@
 
 ## General
 
-| Forma de escribir 	| Pronunciación 	| Pistas         	|
+| Forma de escribir 	| Pronunciación (ES)| Pistas         	|
 |:---------------------:|:-----------------:|:-----------------:|
 | Aa                	| [a]           	|                 	|
 | Bb                    | [bee]             |                 	|
