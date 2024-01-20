@@ -12,3 +12,7 @@ __________                                           __        __   __
 - [problematic words](./problematic_words.md)
 - [pronunciation rules](./pronunciation_rules.md)
 - [Svenska alfabetet](./svenska_alfabetet.md)
+
+# Intro
+
+[library](https://library.teachyourself.com/id004325173/Complete-Swedish)
