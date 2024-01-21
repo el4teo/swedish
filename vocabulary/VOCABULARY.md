@@ -13,3 +13,4 @@ ____   ____                 ___           __
 - [situations](./situations.md)
 - [functions](./functions.md)
 - [objects around me](./objects_around.md)
+- [verbs](./verb_tables.pdf)
