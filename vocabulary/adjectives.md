@@ -60,5 +60,5 @@
   - En `gammal` kvinna
   - Jag läser ett `gammalt` brev
 
-
+- konstig -> extrano
 

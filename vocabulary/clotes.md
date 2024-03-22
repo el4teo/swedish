@@ -7,9 +7,13 @@
 
 - en skjorta -> una camisa
   - skjorta`n` -> la camisa
+  - skjort`or` -> camisas
     
-    en tröja - camisa/pullover
-    en jacka - Chaqueta
+- en jacka - Chaqueta
+  - jack`or`
+  
+- en tröja -> sueter
+  - tröjorna
     en kofta - Cárdigan
     en väst - Chaleco
 
@@ -17,9 +21,13 @@
 
 - ett par byxor - Pantalones
   - byxor`na` är nya
+  - ett par jeans - Vaqueros
 
-    ett par jeans - Vaqueros
-    en kjol - Falda
+
+
+- en kjol - Falda
+  - kjol`en`
+
     ett par shorts - Pantalones cortos
     ett par leggings - Leggings
     
@@ -27,12 +35,17 @@
 
 - en kostym -> Un traje
   - konstym`en` -> el traje
+
 - kläder -> Ropa
   - kläderna -> La ropa
 
+- en klänning -> vestido
+
 # Calzado (Skor):
 
-    ett par skor - Zapatos
+- en sko -> un zapato
+  - ett par skor - Zapatos
+
     ett par stövlar - Botas
     ett par sandaler - Sandalias
     ett par sneakers - Zapatillas deportivas
@@ -50,10 +63,13 @@
   - halsduk`en`
 
 - en handskar -> un guante
+  - handsk`en`
   - handskar -> guantes
-  - handskarna -> los guantes
+  - handskar`na` -> los guantes
 
 - ett skärp -> un cinturón
+  - flera skärp
+
     en mössa - Gorro
     en väska - Bolso
     ett par solglasögon - Gafas de sol

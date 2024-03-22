@@ -17,7 +17,7 @@
 
 ## Basics
 
-- vill -> querer
+- vill (ha) -> querer
 - har -> tener
 - tycker om -> gustar
 - behöver -> necesitar
@@ -50,7 +50,7 @@
 
 ### Will
 
-- vill (ha)-> querer
+- vill (ha) -> querer
 - väljer -> elegir
 - tar -> tomar
 - hittar -> encontrar
