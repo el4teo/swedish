@@ -3,6 +3,7 @@
 # Situaciones
 
 - Är det viktigt? -> Es importante?
+- Ett hus till `salu` -> Una casa en venta
 
 # Personas
 

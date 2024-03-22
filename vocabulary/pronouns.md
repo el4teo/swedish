@@ -1,6 +1,7 @@
 [BACK](./VOCABULARY.md)
 
 - [Pronombres personales](#pronombres-personales)
+- [Pronobres objeto](#pronobres-objeto)
 - [Pronombres posesivos](#pronombres-posesivos)
 - [Pronombres reflexivos](#pronombres-reflexivos)
 - [Pronombres posesivos](#pronombres-posesivos-1)
@@ -19,6 +20,10 @@
 - Vi (nosotros/nosotras)
 - Ni (vosotros/vosotras)
 - De (ellos/ellas)
+
+# Pronobres objeto
+
+- honom -> a él
 
 # Pronombres posesivos
 

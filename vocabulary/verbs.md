@@ -12,6 +12,9 @@
     - [Emotions](#emotions)
     - [Routine](#routine)
     - [Existence](#existence)
+  - [Third group](#third-group)
+    - [Business](#business)
+    - [Daily life](#daily-life)
 
 # My own classification
 
@@ -82,3 +85,16 @@
 
 - finns -> haber
 - regnar -> llover
+
+## Third group
+
+### Business
+
+- köper -> comprar
+- säljer -> vender
+- betalar -> pagar
+- hyr -> alquilar
+
+### Daily life
+
+- söker -> buscar
