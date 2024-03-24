@@ -17,6 +17,12 @@
 - lilla
 - lille
 
+## Personalidad
+
+- rolig -> divertido
+- snäll -> agradable
+- smart -> inteligente 
+
 ## Estados físicos
 
 - törstiga -> sedientos
@@ -62,4 +68,9 @@
   - Jag läser ett `gammalt` brev
 
 - konstig -> extrano
+
+- vacker -> hermoso
+  - vacker`t`
+
+- viktig -> impo
 

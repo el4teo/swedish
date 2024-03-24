@@ -20,5 +20,6 @@ ____   ____                 ___           __
 - [pronouns](./pronouns.md)
 - [verbs](./verbs.md)
 - [places](./places.md)
-- [clotes](./clotes.md)
 - [professions](./professions.md)
+- [clotes](./clotes.md)
+- [colors](./colors.md)
