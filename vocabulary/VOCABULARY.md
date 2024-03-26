@@ -10,9 +10,10 @@ ____   ____                 ___           __
 [BACK](../README.md)
 
 - [generic categories](./generic_categories.md)
+- [important words](./important_words.md)
+- [objects around me](./objects_around.md)
 - [situations](./situations.md)
 - [functions](./functions.md)
-- [objects around me](./objects_around.md)
 - [verbs](./verb_tables.pdf)
 - [animals](./animals.md)
 - [food](./food.md)

@@ -20,10 +20,16 @@
 
 ## Basics
 
-- vill (ha) -> querer
-- har -> tener
+- har -> tener, poseer
 - tycker om -> gustar
+
+- vill (ha) -> querer
 - behöver -> necesitar
+- kan -> poder
+- måster -> deber
+
+- påstår -> afirmar
+- nekar -> negar
 
 
 # Duolingo

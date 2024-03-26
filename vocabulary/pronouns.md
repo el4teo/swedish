@@ -36,9 +36,9 @@
 - sin/sitt (su de el o ella)
   - sina (sus de el, ella o ellos)
 
-- hans (el de él)
+- hans (de él)
 
-- henns (el de ella)
+- hennes (de ella)
 
 - dess (su para neutro)
 

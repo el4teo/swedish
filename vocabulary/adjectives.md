@@ -13,9 +13,13 @@
 
 ## Apariencia y complexión
 
-- Ett vackert barn -> Un niño hermoso
-- lilla
-- lille
+- vackert -> hermoso
+
+- lilla -> pequeña
+- lille -> pequeño
+- små -> pequeño
+
+- stark -> fuerte
 
 ## Personalidad
 
@@ -25,17 +29,38 @@
 
 ## Estados físicos
 
-- törstiga -> sedientos
-  - Vi är `törstiga`
-  - Jag är `törstig`
+- törstig -> sediento
+  - törstig`a` -> sedientos
 
-- hugriga -> hambrientos
-  - Vi är `hungriga`
-  - Är du `hungrig`?
+- hungig -> hambiernto
+  - hugrig`a` -> hambrientos
 
-- trötta -> cansados
-  - Barnet är `trött`
-  - Jag är inte `trött`
+- trött -> cansado
+  - trött`a` -> cansados
+
+## Estados de ánimo
+
+- glad -> feliz
+- ledsen -> triste
+
+- arg -> enojado
+- upprörd -> irritado
+
+- förvirrad -> confundido
+- rädd -> asustado
+
+- lugn -> tranquilo
+- nervös -> nervioso
+
+- förväntansfull -> emocionado
+- avslappnad -> relajado
+
+- entusiastisk -> entusiasmado
+- förvånad -> sorprendido
+- stolt -> orgulloso
+
+- besviken -> decepcionado
+- generad -> avergonzado
 
 # Objetos en general
 
