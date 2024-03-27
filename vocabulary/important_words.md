@@ -14,6 +14,13 @@
 - även om -> aunque
 - att -> que
 
+- ett svar
+  - svar`et`
+  - svar`en`
+- en fråga -> una pregunta
+  - fråg`en`
+  - fråg`or`
+
 - endast -> solo
   - den enda personen -> la única persona
 

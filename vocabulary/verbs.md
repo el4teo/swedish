@@ -15,6 +15,7 @@
   - [Third group](#third-group)
     - [Business](#business)
     - [Daily life](#daily-life)
+    - [Comprehension](#comprehension)
 
 # My own classification
 
@@ -31,6 +32,8 @@
 - påstår -> afirmar
 - nekar -> negar
 
+- förstår -> entender
+- vet -> saber
 
 # Duolingo
 
@@ -104,3 +107,11 @@
 ### Daily life
 
 - söker -> buscar
+- gör -> hacer
+
+### Comprehension
+
+- förstår -> entender
+- vet -> saber
+- frågar -> preguntar
+- svarar -> responder
