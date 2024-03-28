@@ -80,22 +80,38 @@
 
 - Hur många -> cuántos
   - Hur många pojkar simmar? -> Cuántos chicos nadan?
+  - Hur många arbetare har ni? -> Cuántos trabajadores tenéis?
 
 - Hur länge -> por cuánto tiempo
   - 
 
  # Questions related
 
+## Questions related
+
 - Förstår du? -> Entiendes?
-- Jag har flera frågor -> Tengo varias preguntas
+- Jag har flera frågor -> Yo tengo varias preguntas
 - Jag har inga frågor -> No tengo ninguna pregunta
-- Jag förstår inte -> No entiendo
 - Ditt svar är fel -> La respuesta es incorrecta
 - En viktig fråga -> Una pregunta importante
-- Jag vet inte -> No sé
+- En enkel fråga -> Una pregunta fácil
+- Frågan är lätt -> La pregunta es fácil
+- Kvinnan vet var boken är -> La mujer sabe dónde está el libro
+
+## Answers related
+
+- Mitt svar är ja -> Mi respuesta es sí
 - Svaret är nej -> La respuesta es no
+- Hon har svaret -> Ella tiene la respuesta
+- Jag förstår inte -> No entiendo
+- Jag vet inte -> No sé
 - Detta är fel -> Esto está mal
+- Så lätt -> Qué fácil
+
+## Conversations
+
 - Förstår du inte? -> No entiendes?
   - Jo det gör jag -> Si lo hago
+
 - Har du inga byxor? -> No tienes pantalones?
   - Jo det har jag -> Sí, sí tengo

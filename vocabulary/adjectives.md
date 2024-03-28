@@ -5,7 +5,7 @@
 - Är det viktigt? -> Es importante?
 - Ett hus till `salu` -> Una casa en venta
 
-# Personas
+# Personas y animales
 
 - Smoa
   - De är smoa flickor
@@ -14,18 +14,33 @@
 ## Apariencia y complexión
 
 - vackert -> hermoso
+- söt -> bonito
+  - söt`a`
 
 - lilla -> pequeña
 - lille -> pequeño
 - små -> pequeño
 
 - stark -> fuerte
+  - stark`a`
 
 ## Personalidad
 
 - rolig -> divertido
 - snäll -> agradable
+- trevlig -> amable
+  - trevlig`t`
+  - trevlig`a`
 - smart -> inteligente 
+- underbar -> maravilloso
+  - underbar`t`
+
+## Estado en general
+
+- ledig -> libre, disponible (Jar är inte `ledig` i morgon)
+  - ledig`a`
+- fri -> libre (Han är en `fri` man)
+- säker -> seguro (Är du `säker`?)
 
 ## Estados físicos
 
@@ -97,5 +112,11 @@
 - vacker -> hermoso
   - vacker`t`
 
-- viktig -> impo
+- viktig -> importante
 
+- lätt -> fácil (Sólo para tipo-ett?)
+- enkel -> fácil
+  - enkel`t`
+- svår -> difícil
+  - svår`t`
+  - svår`a`

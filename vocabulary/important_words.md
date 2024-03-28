@@ -13,6 +13,9 @@
 - men -> pero
 - även om -> aunque
 - att -> que
+- sant -> verdad (Är det sant?)
+- säker -> seguro (Är du säker?)
+- kanske -> quizás
 
 - ett svar
   - svar`et`

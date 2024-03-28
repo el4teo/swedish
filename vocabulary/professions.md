@@ -39,5 +39,6 @@
 - skådespelare -> actor
 - skådespelerska -> actriz
   - skådespelerska`n` -> la actriz
+  - skådespelersk`or` -> actrices
 
 - tolkar -> interpretes

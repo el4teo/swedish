@@ -18,12 +18,28 @@
 
 # Lista extendida
 
-- svarta
-- vita
-- vita
-- gråa
+- svart
+  - svarta
+- vit
+  - vitt
+  - vita
+- grå -> gris
+  - gråa
+- grön -> verde
+  - grönt
+  - gröna
 - grönt
 - gula
-- gult
-- rött
-- blåa
+- gul -> amarillo
+  - gult
+- röd -> rojo
+  - rött
+  - röda
+- blå -> azul
+  - blåa
+- brun -> marrón
+  - brunt
+- oragne -> naranja
+- rosa -> rosa
+- gyllene -> dorada(s)
+- färgglad -> colorido

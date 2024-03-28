@@ -27,6 +27,7 @@
 
 - en kjol - Falda
   - kjol`en`
+  - kjol`ar`
 
     ett par shorts - Pantalones cortos
     ett par leggings - Leggings

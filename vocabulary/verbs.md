@@ -2,6 +2,7 @@
 
 - [My own classification](#my-own-classification)
   - [Basics](#basics)
+  - [Debatir](#debatir)
 - [Duolingo](#duolingo)
   - [First group](#first-group)
   - [Second group](#second-group)
@@ -22,18 +23,24 @@
 ## Basics
 
 - har -> tener, poseer
+- gör -> hacer
 - tycker om -> gustar
 
 - vill (ha) -> querer
 - behöver -> necesitar
-- kan -> poder
+- kan -> poder (capacidad de hacer algo)
 - måster -> deber
+
+## Debatir
 
 - påstår -> afirmar
 - nekar -> negar
 
-- förstår -> entender
 - vet -> saber
+- förstår -> entender
+
+- frågar -> preguntar
+- svarar -> responder
 
 # Duolingo
 
