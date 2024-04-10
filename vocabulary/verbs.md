@@ -3,6 +3,8 @@
 - [My own classification](#my-own-classification)
   - [Basics](#basics)
   - [Debatir](#debatir)
+  - [Moverse](#moverse)
+  - [Cambio](#cambio)
 - [Duolingo](#duolingo)
   - [First group](#first-group)
   - [Second group](#second-group)
@@ -23,8 +25,11 @@
 ## Basics
 
 - har -> tener, poseer
-- gör -> hacer
 - tycker om -> gustar
+
+- gör -> hacer
+- arbetar -> trabjar
+
 
 - vill (ha) -> querer
 - behöver -> necesitar
@@ -33,14 +38,25 @@
 
 ## Debatir
 
-- påstår -> afirmar
-- nekar -> negar
-
+- pratar -> hablar
 - vet -> saber
 - förstår -> entender
 
 - frågar -> preguntar
 - svarar -> responder
+
+- påstår -> afirmar
+- nekar -> negar
+
+## Moverse
+
+- stannar -> quedarse, detenerse
+- faller -> caer, descender
+- går -> ir
+
+## Cambio
+
+- blivit -> convertirse
 
 # Duolingo
 
@@ -83,7 +99,7 @@
 
 ### Mouth and ears
 
-- pratar/prötar -> hablar
+- pratar -> hablar
 - lyssnar -> escuchar
 - sjunger -> cantar
 

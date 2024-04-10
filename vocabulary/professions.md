@@ -10,6 +10,9 @@
 
 - en arbetare -> un trabajador
   - arbetaren
+- servitör -> camarero(a)
+- en lantbrukare -> un  granjero
+- ingenjör -> ingeniero
 
 ## Academic
 

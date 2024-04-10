@@ -3,6 +3,7 @@
 # Positions
 
 här -> aquí
+där -> allí
 
 # Stores
 
@@ -13,3 +14,6 @@ här -> aquí
 - marknad -> mercado
   - maknad`er`
   - maknad`erna`
+
+- hemma -> en casa
+en stad -> a city

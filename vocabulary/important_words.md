@@ -15,9 +15,15 @@
 - att -> que
 - sant -> verdad (Är det sant?)
 - säker -> seguro (Är du säker?)
-- kanske -> quizás
 
-- ett svar
+- kanske -> quizás
+- nästan -> casi
+- sant -> verdad
+- lögn -> mentira
+- som om -> como si
+- också -> también
+
+- ett svar -> una respuesta
   - svar`et`
   - svar`en`
 - en fråga -> una pregunta
@@ -30,11 +36,18 @@
 # Relaciones
 
 - vän -> amigo
+  - Vill du vara min vän?
 
 
 # Pertenencia
 
 - egna -> propio
+
+# Posición
+
+- ner -> abajo
+  - här -> aquí (here)
+- där -> allí (there)
 
 # Cantidad
 

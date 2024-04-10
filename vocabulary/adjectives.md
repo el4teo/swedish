@@ -7,10 +7,6 @@
 
 # Personas y animales
 
-- Smoa
-  - De är smoa flickor
-- Du har fel -> Estas equivocado
-
 ## Apariencia y complexión
 
 - vackert -> hermoso
@@ -23,6 +19,7 @@
 
 - stark -> fuerte
   - stark`a`
+- svag -> débil
 
 ## Personalidad
 
@@ -34,6 +31,7 @@
 - smart -> inteligente 
 - underbar -> maravilloso
   - underbar`t`
+- rättvis -> justo
 
 ## Estado en general
 
@@ -41,6 +39,9 @@
   - ledig`a`
 - fri -> libre (Han är en `fri` man)
 - säker -> seguro (Är du `säker`?)
+- färdig -> listo (Maten är `färdig`?)
+- ensam -> solo
+  - ensam`ma` -> solos (Vi är inte `ensamma`)
 
 ## Estados físicos
 
@@ -79,6 +80,8 @@
 
 # Objetos en general
 
+## Calidad
+
 - bra -> bueno
   - Den är `bra`
   
@@ -87,6 +90,12 @@
   - Äpplet är `dåligt`
   - En `dålig` bok
 
+## Importancia
+
+- viktig -> importante
+
+## Forma y tamaño
+
 - stot -> grande
   - En `stor` fogel
   - De är `stora`
@@ -94,8 +103,16 @@
 - litet -> pequeño
   - En litet äppel
   - Den är liten
-- Små -> pequeños
-  - Små fåglar
+- små -> pequeños
+  - små fåglar
+
+- vass -> afilado, agudo
+  - vass`a` -> afilados, agudos
+- djupt -> profundo
+
+- konstig -> extraño
+
+## Antiguedad
 
 - nya -> nuevos
   - De är `nya`
@@ -107,12 +124,13 @@
   - En `gammal` kvinna
   - Jag läser ett `gammalt` brev
 
-- konstig -> extrano
+
+## Apariencia
 
 - vacker -> hermoso
   - vacker`t`
 
-- viktig -> importante
+## Complejidad
 
 - lätt -> fácil (Sólo para tipo-ett?)
 - enkel -> fácil
@@ -120,3 +138,4 @@
 - svår -> difícil
   - svår`t`
   - svår`a`
+- djupt -> profundo (Det är en `djup` fråga)
