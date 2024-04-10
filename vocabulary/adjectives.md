@@ -32,6 +32,9 @@
 - underbar -> maravilloso
   - underbar`t`
 - rättvis -> justo
+- söt -> bonito
+- intressant -> interesante
+- lätt -> fácil
 
 ## Estado en general
 
@@ -42,6 +45,7 @@
 - färdig -> listo (Maten är `färdig`?)
 - ensam -> solo
   - ensam`ma` -> solos (Vi är inte `ensamma`)
+- tillsammans -> juntos(as)
 
 ## Estados físicos
 

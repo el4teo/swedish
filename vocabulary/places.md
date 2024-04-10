@@ -2,8 +2,8 @@
 
 # Positions
 
-här -> aquí
-där -> allí
+här -> aquí (here)
+där -> allí (there)
 
 # Stores
 

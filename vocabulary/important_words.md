@@ -18,7 +18,6 @@
 
 - kanske -> quizás
 - nästan -> casi
-- sant -> verdad
 - lögn -> mentira
 - som om -> como si
 - också -> también

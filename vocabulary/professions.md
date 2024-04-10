@@ -10,19 +10,27 @@
 
 - en arbetare -> un trabajador
   - arbetaren
+- chef -> jefe
 - servitör -> camarero(a)
 - en lantbrukare -> un  granjero
+
 - ingenjör -> ingeniero
 
 ## Academic
 
+- lärare -> profesor(a)
 - studenter -> estudiantes
+
+## Healt
+
+- läkare -> médico(a)
 
 # Alimentation
 
 - kock -> cocinero
   - kock`ar`
   - kock`arna`
+- en bonde -> un granjero(a)
 
 # Legal
 

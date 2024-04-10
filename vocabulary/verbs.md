@@ -40,6 +40,7 @@
 
 - pratar -> hablar
 - vet -> saber
+  - jag vet inte om det är sant
 - förstår -> entender
 
 - frågar -> preguntar
