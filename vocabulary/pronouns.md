@@ -2,9 +2,9 @@
 
 - [Pronombres personales](#pronombres-personales)
 - [Pronobres objeto](#pronobres-objeto)
+  - [Ejemplos](#ejemplos)
 - [Pronombres posesivos](#pronombres-posesivos)
 - [Pronombres reflexivos](#pronombres-reflexivos)
-- [Pronombres posesivos](#pronombres-posesivos-1)
 - [Pronombres demostrativos](#pronombres-demostrativos)
 - [Pronombres interrogativos y exclamativos](#pronombres-interrogativos-y-exclamativos)
 - [Pronombres relativos](#pronombres-relativos)
@@ -23,9 +23,32 @@
 
 # Pronobres objeto
 
-- honom -> a él
+- mig – me
+- dig – te
+- honom – lo (a él)
+- henne – la (a ella)
+- den / det – lo/la (neutro, para objetos o animales, dependiendo del género)
+  - den: para sustantivos de género común (en-ord).
+  - det: para sustantivos de género neutro (ett-ord).
+- oss – nos
+- er – os (a vosotros/as)
+- dem – los/las (a ellos/as)
+
+## Ejemplos
+
+- Han såg mig. (Él me vio)
+- Jag hjälpte dig. (Te ayudé)
+- Vi träffade honom igår. (Nosotros lo encontramos ayer)
+- Hon ringde henne. (Ella la llamó)
+- Vi köpte den igår. (Lo/la compramos ayer)
+- Vi gav det till honom. (Lo dimos a él)
+- De såg oss. (Ellos nos vieron)
+- Vi väntar på er. (Esperamos por vosotros)
+- Jag känner dem. (Los conozco)
 
 # Pronombres posesivos
+
+- Vems __? - ¿De quién?
 
 - min/mitt (mío, mi)
   - mina (mías, mis)
@@ -58,17 +81,6 @@
 - Oss (nos)
 - Er (os)
 - Sig (se)
-
-# Pronombres posesivos
-
-- Min (mi)
-- Din (tu)
-- Hans (su - para masculino)
-- Hennes (su - para femenino)
-- Dess (su - para neutro)
-- Vår (nuestro/nuestra)
-- Er (vuestro/vuestra)
-- Deras (su - para plural)
 
 # Pronombres demostrativos
 

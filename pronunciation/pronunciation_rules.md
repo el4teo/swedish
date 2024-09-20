@@ -8,6 +8,8 @@
   - [Sounds like `sh`](#sounds-like-sh)
   - [Sounds like `sj` (jj del español)](#sounds-like-sj-jj-del-español)
   - [Sounds like `j` (i del español)](#sounds-like-j-i-del-español)
+- [Ejemplos](#ejemplos)
+  - [Youtube](#youtube)
 
 # Según la dureza de la vocal
 ## Hårda vokaler
@@ -105,3 +107,9 @@ Tienen un sonido propio independiente de si les procede una vocal dura o suave
   - hjärta  [corazón]
 - `GJ`
   - gjorde  [hizo]
+
+# Ejemplos
+
+## Youtube 
+
+- https://www.youtube.com/watch?v=2qrMp355aX8

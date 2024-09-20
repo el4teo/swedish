@@ -1,6 +1,7 @@
 [BACK](./VOCABULARY.md)
 
 - [My own classification](#my-own-classification)
+  - [Importants](#importants)
   - [Basics](#basics)
   - [Debatir](#debatir)
   - [Moverse](#moverse)
@@ -22,6 +23,10 @@
 
 # My own classification
 
+## Importants
+
+- jag tål inte gluten
+
 ## Basics
 
 - har -> tener, poseer
@@ -31,7 +36,7 @@
 - arbetar -> trabjar
 
 
-- vill (ha) -> querer
+- vill (ha) -> querer (tener)
 - behöver -> necesitar
 - kan -> poder (capacidad de hacer algo)
 - måster -> deber
@@ -86,7 +91,7 @@
 
 ### Will
 
-- vill (ha) -> querer
+- vill (ha) -> querer (tener)
 - väljer -> elegir
 - tar -> tomar
 - hittar -> encontrar

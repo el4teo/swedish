@@ -21,6 +21,8 @@
   - stark`a`
 - svag -> débil
 
+- skrämmande - terrorifico
+
 ## Personalidad
 
 - rolig -> divertido
