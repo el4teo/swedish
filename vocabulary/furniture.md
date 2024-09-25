@@ -47,6 +47,16 @@
 - en dator (una computadora)
 - ett dokumentförvaringsskåp (un archivador)
 
+## Balcón (Balkong)
+
+- ett bord (una mesa)
+- en stol (una silla)
+- en solsäng (una tumbona)
+- ett parasoll (una sombrilla)
+- en blomkruka (una maceta)
+- ett grill (una parrilla/barbacoa)
+- en ljusslinga (una guirnalda de luces)
+
 # Releated to furniture
 
 ## Places
