@@ -48,6 +48,10 @@
 - ett kylskåp -> una nevera
   - kylskåp`et`
 
+# Platillos
+
+- hamburgaren -> la hamburgueza
+
 # Carne
 
 - Ett Kött -> Una carne
@@ -69,6 +73,9 @@
   - vin`et`
 - ett öl -> una cerveza
   - ölet -> la cerveza
+- en läskburk -> una lata de refresco
+  - läskburk`en`
+- kaffekoppen -> la taza de café
 
 # Frutos secos
 
