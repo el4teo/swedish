@@ -1,5 +1,15 @@
 [BACK](./VOCABULARY.md)
 
+# Habitación
+
+- I mitt sovrum det finns:
+  - En smal säng
+    - Det ligger ett täcke och två kuddar på min säng
+  - Ett fönster
+    - Två gråa gardinar hänger över fönstret
+  - En vit garderob
+  - och en brun mjuk fåtölj
+
 # Durante la comida
 
 ## Utencilios

@@ -32,7 +32,9 @@
 ## Direccionales
 
 - `vänster` -> izquierda
+  - det `västra` sängbordet
 - `höger` -> derecha
+  - det `högra` sängbordet
 
 - Väckarklockan står `till vänster om` sängen och lampan står `till höger`
 

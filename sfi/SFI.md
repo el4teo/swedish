@@ -24,6 +24,8 @@
 
 # Recomendations
 
+- [SFI länkar](https://www.kreativpedagogik.se/)
+
 ## YouTube
 
 - [Peter SFI](https://www.youtube.com/@petersfi6089)

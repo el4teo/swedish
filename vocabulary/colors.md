@@ -19,26 +19,27 @@
 # Lista extendida
 
 - svart
-  - svarta
+  - svart`a`
 - vit
-  - vitt
-  - vita
+  - vit`t` (ett ord)
+  - vit`a` (plural)
 - grå -> gris
-  - gråa
+  - grå`a`
 - grön -> verde
-  - grönt
-  - gröna
+  - grön`t`
+  - grön`a`
 - grönt
 - gula
 - gul -> amarillo
-  - gult
+  - gul`t`
 - röd -> rojo
-  - rött
-  - röda
+  - rö`tt`
+  - röd`a`
 - blå -> azul
-  - blåa
+  - blå`a`
 - brun -> marrón
-  - brunt
+  - brun`t`
+  - brun`a`
 - oragne -> naranja
 - rosa -> rosa
 - gyllene -> dorada(s)
