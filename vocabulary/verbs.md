@@ -31,6 +31,7 @@
 
 - har -> tener, poseer
 - tycker om -> gustar
+- tycker att -> pensar
 
 - gör -> hacer
 - arbetar -> trabjar
