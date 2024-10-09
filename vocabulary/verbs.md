@@ -4,6 +4,7 @@
   - [Importants](#importants)
   - [Basics](#basics)
   - [Debatir](#debatir)
+  - [Lista básica SFI](#lista-básica-sfi)
   - [Moverse](#moverse)
   - [Cambio](#cambio)
 - [Duolingo](#duolingo)
@@ -47,6 +48,7 @@
 - pratar -> hablar
 - vet -> saber
   - jag vet inte om det är sant
+- tycker att -> pensar
 - förstår -> entender
 
 - frågar -> preguntar
@@ -54,6 +56,37 @@
 
 - påstår -> afirmar
 - nekar -> negar
+
+## Lista básica SFI
+
+- pratar (i telefon)
+- cycklar
+- äter (frukost)
+- borstar (täderna)
+- åker (tåg) -> viajar
+- dricker (vattern)
+- kör (bil)
+- duschar
+- sover
+- sitter
+- väntar -> esperar
+- klör på sig -> arregalrse/prepararse
+- handlar (mat) -> comprar (alimentos)
+- springer
+- tittar (på tv)
+- studerar
+- skriver
+- ligger
+- lyssnar (på musik)
+- lämnar (barn på förskolan)
+- jobbar
+- läser
+- spelar (gitarr)
+- tränar
+- står
+- kammar (håret) -> peinarse
+- badar -> bañarse
+- städar
 
 ## Moverse
 
