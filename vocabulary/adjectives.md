@@ -1,5 +1,47 @@
 [BACK](./VOCABULARY.md)
 
+- [Lista básica SFI](#lista-básica-sfi)
+  - [Personas complexión apariencia](#personas-complexión-apariencia)
+  - [Estados de ánimo/energía](#estados-de-ánimoenergía)
+- [Situaciones](#situaciones)
+- [Personas y animales](#personas-y-animales)
+  - [Apariencia y complexión](#apariencia-y-complexión)
+  - [Personalidad](#personalidad)
+  - [Estado en general](#estado-en-general)
+  - [Estados físicos](#estados-físicos)
+  - [Estados de ánimo](#estados-de-ánimo)
+- [Objetos en general](#objetos-en-general)
+  - [Calidad](#calidad)
+  - [Importancia](#importancia)
+  - [Forma y tamaño](#forma-y-tamaño)
+  - [Antiguedad](#antiguedad)
+  - [Apariencia](#apariencia)
+  - [Complejidad](#complejidad)
+
+# Lista básica SFI
+
+- motsatsen -> antónimo
+
+## Personas complexión apariencia
+
+- stor <-> liten
+- tjock <-> smal
+- bra <-> dålig
+- vacker <-> ful
+- blond <-> mörk
+- trak <-> svag
+- ung <-> gammal
+- ren <-> smutsig
+- rik <-> fattig (rico <-> pobre)
+- rakad <-> orakad (afeitado <-> sin afeitar)
+
+## Estados de ánimo/energía
+
+- glad <-> ledsen (`d` no suena)
+- rolig <-> tråkig
+- pigg <-> trött
+- frisk <-> sjuk (sano <-> enfermo)
+
 # Situaciones
 
 - Är det viktigt? -> Es importante?
