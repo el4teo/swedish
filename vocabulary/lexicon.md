@@ -5,14 +5,14 @@
   - [Objetos/sustantivos/pronombres](#objetossustantivospronombres)
   - [Adjetivos](#adjetivos)
   - [Adverbios](#adverbios)
-  - [Conceptos](#conceptos)
+  - [Conceptos/actividades/sensaciones](#conceptosactividadessensaciones)
   - [Otros](#otros)
 - [Favoritas](#favoritas)
   - [Verbos](#verbos-1)
   - [Objetos](#objetos)
   - [Adjetivos](#adjetivos-1)
   - [Adverbios](#adverbios-1)
-  - [Conceptos](#conceptos-1)
+  - [Conceptos](#conceptos)
   - [Otros](#otros-1)
 
 # Aprendiendo
@@ -25,6 +25,7 @@
 - märkte -> me dí cuenta
 - handlar mat -> comprar alimentos
 - badar -> bañandose
+- delade -> compartió
 
 ## Objetos/sustantivos/pronombres
 
@@ -42,16 +43,22 @@
 - sjuk -> enferm@
 - schysta -> agradable 
 - olika -> diferente
+- mörka -> oscuro
 
 ## Adverbios
 
 - istället -> en su lugar
 - ibland -> a veces
 - mesta -> mayoría
+- närmare -> sigilosamente
+- stjärnor -> independientemente
+- igen -> de nuevo
 
-## Conceptos
+## Conceptos/actividades/sensaciones
 
 - arbetsuppgifter -> tareas laborales
+- vandring -> senderismo
+- lugn -> calma
 
 ## Otros
 
@@ -60,7 +67,8 @@
 - dåtid -> tiempo pasado
 - förut -> antes
 - verkligen -> realmente
-- snart -> pronto 
+- snart -> pronto
+- även -> también
 
 
 # Favoritas
