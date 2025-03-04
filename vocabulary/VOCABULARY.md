@@ -15,6 +15,7 @@ ____   ____                 ___           __
 - [situations](./situations.md)
 - [functions](./functions.md)
 - [verbs](./verb_tables.pdf)
+- [adverbios](./adverbs.md)
 - [animals](./animals.md)
 - [food](./food.md)
 - [numbers](./numbers.md)

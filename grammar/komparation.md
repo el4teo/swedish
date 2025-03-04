@@ -12,7 +12,7 @@ CONTENIDO
 ## Komparativ
 
 - Se agrega el sufijo `are`
-  - Vilket är dyr`ast`, korv eller oxfilé?
+  - Vilket är dyr`are`, korv eller oxfilé?
 - Cuando se menciona al segundo objeto `än`
   - ett flypan är snabb`are` `än` ett tåg
 
