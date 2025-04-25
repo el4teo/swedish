@@ -18,6 +18,31 @@
   - [Apariencia](#apariencia)
   - [Complejidad](#complejidad)
 
+# Lista Berlitz
+
+| EN        | ETT        | MÅNGA       | Español         |
+|-----------|------------|-------------|------------------|
+| avlägsen  | avlägset   | avlägsna    | lejano           |
+| cool      | coolt      | coola       | genial / moderno |
+| fin       | fint       | fina        | bonito           |
+| gedigen   | gediget    | gedigna     | sólido / robusto |
+| intressant| intressant | intressanta | interesante      |
+| lång      | långt      | långa       | largo            |
+| handgjord | handgjort  | handgjorda  | hecho a mano     |
+| härlig    | härligt    | härliga     | encantador       |
+| hög       | högt       | höga        | alto             |
+| klar      | klart      | klara       | claro / listo    |
+| liten     | litet      | små         | pequeño          |
+| lugn      | lugnt      | lugna       | tranquilo        |
+| magisk    | magiskt    | magiska     | mágico           |
+| modern    | modernt    | moderna     | moderno          |
+| mysig     | mysigt     | mysiga      | acogedor         |
+| perfekt   | perfekt    | perfekta    | perfecto         |
+| säker     | säkert     | säkra       | seguro           |
+| trevlig   | trevligt   | trevliga    | agradable        |
+| vinröd    | vinrött    | vinröda     | rojo vino        |
+
+
 # Lista básica SFI
 
 - motsatsen -> antónimo
