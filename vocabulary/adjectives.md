@@ -18,7 +18,9 @@
   - [Apariencia](#apariencia)
   - [Complejidad](#complejidad)
 
-# Lista Berlitz
+# Listas Berlitz
+
+## Lugares
 
 | EN        | ETT        | MÅNGA       | Español         |
 |-----------|------------|-------------|------------------|
@@ -41,6 +43,23 @@
 | säker     | säkert     | säkra       | seguro           |
 | trevlig   | trevligt   | trevliga    | agradable        |
 | vinröd    | vinrött    | vinröda     | rojo vino        |
+
+## Personas
+
+| EN           | ETT          | MÅNGA         | Español             |
+|--------------|--------------|---------------|----------------------|
+| lat          | lat          | lata          | perezoso             |
+| hjälpsam     | hjälpsamt    | hjälpsamma    | servicial            |
+| varm         | varmt        | varma         | cálido / caluroso    |
+| mäktig       | mäktigt      | mäktiga       | poderoso             |
+| sträng       | strängt      | stränga       | estricto / severo    |
+| empatisk     | empatiskt    | empatiska     | empático             |
+| kommunikativ | kommunikativt| kommunikativa | comunicativo         |
+| lyhörd       | lyhört       | lyhörda       | receptivo / atento   |
+| driven       | drivet       | drivna        | motivado / ambicioso |
+| intresserad  | intresserat  | intresserade  | interesado           |
+| nyfiken      | nyfiket      | nyfikna       | curioso              |
+| bestämd      | bestämt      | bestämda      | decidido / firme     |
 
 
 # Lista básica SFI
