@@ -1,5 +1,8 @@
 [BACK](./VOCABULARY.md)
 
+- [Listas Berlitz](#listas-berlitz)
+  - [Lugares](#lugares)
+  - [Personas](#personas)
 - [Lista básica SFI](#lista-básica-sfi)
   - [Personas complexión apariencia](#personas-complexión-apariencia)
   - [Estados de ánimo/energía](#estados-de-ánimoenergía)
@@ -22,7 +25,7 @@
 
 ## Lugares
 
-| EN        | ETT        | MÅNGA       | Español         |
+| EN        | ETT        | MÅNGA       | Español          |
 |-----------|------------|-------------|------------------|
 | avlägsen  | avlägset   | avlägsna    | lejano           |
 | cool      | coolt      | coola       | genial / moderno |

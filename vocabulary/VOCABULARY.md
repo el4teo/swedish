@@ -14,7 +14,7 @@ ____   ____                 ___           __
 - [objects around me](./objects_around.md)
 - [situations](./situations.md)
 - [functions](./functions.md)
-- [verbs](./verb_tables.pdf)
+- [verbs](./verbs.md)
 - [adverbios](./adverbs.md)
 - [animals](./animals.md)
 - [food](./food.md)
