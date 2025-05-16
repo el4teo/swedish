@@ -9,6 +9,19 @@
 - [Pronombres interrogativos y exclamativos](#pronombres-interrogativos-y-exclamativos)
 - [Pronombres relativos](#pronombres-relativos)
 
+| Pronombre personal | Objeto | Reflexivo | Posesivo común        | Posesivo plural    | Posesivo reflexivo     |
+|--------------------|--------|-----------|-----------------------|--------------------|-------------------------|
+| Jag (yo)           | Mig    | Mig       | Min / Mitt            | Mina               | –                       |
+| Du (tú)            | Dig    | Dig       | Din / Ditt            | Dina               | –                       |
+| Han (él)           | Honom  | Sig       | Hans                  | Hans               | Sin / Sitt / Sina       |
+| Hon (ella)         | Henne  | Sig       | Hennes                | Hennes             | Sin / Sitt / Sina       |
+| Den (ello - en)    | Den    | Sig       | Dess                  | Dess               | Sin / Sitt / Sina       |
+| Det (ello - ett)   | Det    | Sig       | Dess                  | Dess               | Sin / Sitt / Sina       |
+| Vi (nosotros)      | Oss    | Oss       | Vår / Vårt            | Våra               | –                       |
+| Ni (vosotros)      | Er     | Er        | Er / Ert              | Era                | –                       |
+| De (ellos/ellas)   | Dem    | Sig       | Deras                 | Deras              | Sin / Sitt / Sina       |
+
+
 # Pronombres personales
 
 - Jag (yo)
@@ -20,6 +33,10 @@
 - Vi (nosotros/nosotras)
 - Ni (vosotros/vosotras)
 - De (ellos/ellas)
+
+# Posesivo reflexivo
+
+- Se usa cuando el sujeto, previamente mencionado, es el posedor del objeto
 
 # Pronobres objeto
 

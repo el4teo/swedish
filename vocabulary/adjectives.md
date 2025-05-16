@@ -49,7 +49,7 @@
 
 ## Personas
 
-| EN           | ETT          | MÅNGA         | Español             |
+| EN           | ETT          | MÅNGA         | Español              |
 |--------------|--------------|---------------|----------------------|
 | lat          | lat          | lata          | perezoso             |
 | hjälpsam     | hjälpsamt    | hjälpsamma    | servicial            |
@@ -63,6 +63,7 @@
 | intresserad  | intresserat  | intresserade  | interesado           |
 | nyfiken      | nyfiket      | nyfikna       | curioso              |
 | bestämd      | bestämt      | bestämda      | decidido / firme     |
+| eftertänksam | eftertänksamt| eftertänksamma| prudente             | 
 
 
 # Lista básica SFI

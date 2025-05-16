@@ -12,5 +12,6 @@
 - [pattern bank](./pattern_bank.md)
 - [grammar structures](grammar_structures.md)
 - [verb conjugation](./verb_conjugation.md)
+- [adjevtives vs adverbs](./adjectives_vs_adverbs.md)
 - [questions](./questions.md)
 - [consequences](./consequences.md)
