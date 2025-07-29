@@ -15,3 +15,4 @@
 - [adjevtives vs adverbs](./adjectives_vs_adverbs.md)
 - [questions](./questions.md)
 - [consequences](./consequences.md)
+- [blir vs är](./blir_vs_är.md)
