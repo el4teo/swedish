@@ -49,6 +49,8 @@
 - vet -> saber
   - jag vet inte om det är sant
 - tycker att -> pensar
+- anser -> creer
+- en mi opinión -> enligt min åsikt, enligt mig
 - förstår -> entender
 
 - frågar -> preguntar
@@ -56,6 +58,10 @@
 
 - påstår -> afirmar
 - nekar -> negar
+- håller -> estar de acuerdo
+  - Jag håller inte alls med (0%)
+  - Jag håller delvis med (50)
+  - Jag håller helt och hållet med ( 100%)
 
 ## Lista básica SFI
 
